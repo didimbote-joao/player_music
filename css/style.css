@@ -158,3 +158,25 @@ body * {
   height: 84.026px;
   border-radius: 6.002px;
 }
+
+#Ct2_fala {
+  display: flex;
+  width: 187.258px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9.603px;
+}
+
+#Ct2_fala1 {
+  font-size: 24.007px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* 24.007px */
+}
+#Ct2_fala2 {
+  opacity: 0.67;
+  font-size: 19.206px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%; /* 19.206px */
+}
