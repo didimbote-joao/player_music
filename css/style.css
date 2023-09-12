@@ -184,7 +184,7 @@ body * {
 
 #Ct2_carregando {
   width: 300.093px;
-  height: 6.002px;
+  height: 8.502px;
   flex-shrink: 0;
   border-radius: 9.603px;
   opacity: 0.3;
@@ -193,7 +193,7 @@ body * {
   position: absolute;
   z-index: 1;
   left: 200;
-  top: 31.5%;
+  top: 31.4%;
   transform: translateY(0%);
 }
 
